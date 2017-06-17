@@ -6,11 +6,14 @@ Productivity=30
 Range=1
 Mapcolor=34
 chance=100
-OutputGood[0]=Delivery_Box(District)
+OutputGood[0]=Delivery_Box(Trunk)
 OutputCapacity[0]=300
 OutputFactor[0]=50
 
 dims=3,1,4
+BackImage[0][0][0][0][0][0]=OverSea_Gate_Out_src.0.0
+BackImage[0][0][1][0][0][0]=OverSea_Gate_Out_src.0.1
+BackImage[0][0][2][0][0][0]=OverSea_Gate_Out_src.0.2
 BackImage[1][0][0][0][0][0]=OverSea_Gate_Out_src.0.3
 BackImage[1][1][0][0][0][0]=OverSea_Gate_Out_src.1.0
 BackImage[1][2][0][0][0][0]=OverSea_Gate_Out_src.1.1

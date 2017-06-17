@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "Obj=factory\nName=OverSea_Gate(Out)\nLocation=Land\nDistributionWeight=1\nProductivity=30\nRange=1\nMapcolor=34\nchance=100\nOutputGood[0]=Delivery_Box(District)\nOutputCapacity[0]=300\nOutputFactor[0]=50\n"
+            "dat_lump": "Obj=factory\nName=OverSea_Gate(Out)\nLocation=Land\nDistributionWeight=1\nProductivity=30\nRange=1\nMapcolor=34\nchance=100\nOutputGood[0]=Delivery_Box(Trunk)\nOutputCapacity[0]=300\nOutputFactor[0]=50\n"
         }, 
         "dims": {
             "directions": 4, 

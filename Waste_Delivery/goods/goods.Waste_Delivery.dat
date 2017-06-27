@@ -1,5 +1,5 @@
 obj=good
-name=Waste_Delivery_Box(Small)
+name=Delivery_Box(Waste)
 metric=box
 catg=1
 value=180

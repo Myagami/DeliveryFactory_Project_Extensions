@@ -16,7 +16,7 @@ BackImage[2][0][0][0][0][0]=Packet_Base.0.2
 BackImage[3][0][0][0][0][0]=Packet_Base.0.3
 ------------------------------------------------
 Obj=factory
-Name=Packet_Base(In0)
+Name=Packet_Base(In)
 Location=Land
 DistributionWeight=1
 Productivity=5
@@ -31,4 +31,4 @@ BackImage[1][0][0][0][0][0]=Packet_Base.1.0
 BackImage[1][0][0][0][0][0]=Packet_Base.1.1
 BackImage[1][0][0][0][0][0]=Packet_Base.1.2
 BackImage[1][0][0][0][0][0]=Packet_Base.1.3
-------------------------------------------------
+-----------------------------------

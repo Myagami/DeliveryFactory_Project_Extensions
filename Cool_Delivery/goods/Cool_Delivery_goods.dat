@@ -1,5 +1,5 @@
 obj=good
-name=Cool-Delivery_Box(Small)
+name=Cool_Delivery_Box(Small)
 metric=box
 catg=1
 value=3
@@ -8,7 +8,7 @@ speed_bonus=10
 DistributionWeight=1
 --------------
 obj=good
-name=Cool-Delivery_Box(District)
+name=Cool_Delivery_Box(District)
 metric=Cargo
 catg=1
 value=60
@@ -17,11 +17,11 @@ speed_bonus=20
 DistributionWeight=1
 -------------------
 obj=good
-name=Cool-Delivery_Box(Trunk)
+name=Cool_Delivery_Box(Trunk)
 metric=Cargo
 catg=1
 value=180
 weight_per_unit=120
 speed_bonus=40
 DistributionWeight=1
-----------------------
+--------------------

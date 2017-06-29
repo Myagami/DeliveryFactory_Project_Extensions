@@ -1,0 +1,8 @@
+obj=good
+name=Delivery_Box(Waste)
+metric=box
+catg=1
+value=180
+weight_per_unit=1
+speed_bonus=40
+--------------

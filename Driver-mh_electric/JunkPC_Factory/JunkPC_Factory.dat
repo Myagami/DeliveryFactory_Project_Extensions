@@ -1,0 +1,11 @@
+Obj=factory
+Name=JunkPC_Factory
+Location=Land
+DistributionWeight=1
+Productivity=30
+Range=1
+Mapcolor=34
+chance=100
+InputGood[0]=Delivery_Box(Waste)
+InputCapacity[0]=300
+InputFactor[0]=100

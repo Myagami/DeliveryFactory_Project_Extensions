@@ -1,0 +1,14 @@
+Obj=factory
+Name=EC_Office
+Location=Land
+DistributionWeight=1
+Productivity=5
+Range=20
+Mapcolor=39
+chance=100
+OutputGood[0]=Delivery_Box(Small)
+OutputCapacity[0]=250
+OutputFactor[0]=300
+dims=1,1,1
+BackImage[0][0][0][0][0][0]=Delivery_Office.0.1
+------------------------------------------------
